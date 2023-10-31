@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuizMe</string>
+    <string name="topbar"> </string>
+    <string name="intro">Let\'s Play </string>
+    <string name="start">Play Now</string>
+    <string name="homepage">Homepage</string>
+    <string name="landingpage">Landing Page</string>
+    <string name="categoryPage">Category Page</string>
+    <string name="confirmPage">Confirm Page</string>
+    <string name="questionsPage">Questions Page</string>
+    <string name="scorePage">Score Page</string>
+    <string name="sports">Sports</string>
+    <string name="nature">Nature</string>
+    <string name="history">History</string>
+    <string name="animals">Animals</string>
+    <string name="science">Science</string>
+    <string name="movie">Movie</string>
+    <string name="profile">PROFILE</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="contactUs">CONTACT US</string>
+    <string name="faqs">FAQS</string>
+    <string name="about">About</string>
+    <string name="termsAndConditions">T\&amp;C</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="play_now">Play Now Page</string>
+    
+</resources>
